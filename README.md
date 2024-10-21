@@ -1,16 +1,25 @@
-### Hi there 👋
+## 🚀 About Me
+Hi there 👋, my name is Alok. I'm a Senior Software Engineering Manager living in Ontario, Canada
+
+My work focuses on:
+- **Leadership:** `People Management`, `Technical Strategy`, `Hiring`, `Alignment & Delivery`
+- **Customers:** `Business & Product Development`, `Data Engineering` & `Security`, `Career Development` 
+- **Engineering:** `Cloud Infrastructure`, `Site Reliability`, `Network Systems`, `Developer Experience`, `Agile Development`
 
 <!--
-**alokjani/alokjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Toolbox
 
-Here are some ideas to get you started:
+- **Compute Infrastructure:** `AWS` `GCP`  `Kubernetes` `Serverless`
+- **Programming & Automation:** `Terraform` `Python` `ArgoCD` `Ansible` `JIRA` `Jenkins` `Github`
+- **Build, Test & Deployment:** `Docker` `Artifactory` `Blazemeter` `Jmeter` `Sonarqube` `Selenium` `Backstage`
+- **Logging, Monitoring & Alerting:** `DataDog` `Splunk` `PagerDuty` `ELK`
+- **Big Data & Analytics:**  `Redshift` `Hadoop` `Elasticsearch` `Looker` 
+- **Storage & Databases:** `S3`, `MySQL` `PostgreSQL` `MongoDB` 
+- **Network & Security:** `VPC` `Routing` `Switching` `Firewalls` `Wireless` `Data Center` `Campus`
+- **Artificial Intelligence:** `Vertex AI`, `Conversational AI`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/alokjani/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
